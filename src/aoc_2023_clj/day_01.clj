@@ -69,4 +69,3 @@ zoneight234
       (puzzle1 input-with-replaced-numbers))
 ; 53340
 
-
